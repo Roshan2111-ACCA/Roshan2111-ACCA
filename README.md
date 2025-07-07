@@ -17,8 +17,8 @@ I'm passionate about **finance**, **technology**, and how data can tell powerful
 ---
 
 ## 📌 Projects
-- **Power BI – Financial Dashboard**  
-  A dynamic visual report analyzing profitability, expense trends, and cash flow over time. [Link here when uploaded]
+- **Power BI – Dashboard**  
+  A dynamic visual report analyzing sales performance, customer satisfaction, and inventory distributation to identify key insights and opportunities for optimization using various KPIs. 
 
 - More coming soon:  
   - Audit checklist automation  
@@ -28,7 +28,7 @@ I'm passionate about **finance**, **technology**, and how data can tell powerful
 ---
 
 ## 📫 Let's Connect
-Feel free to check out my [LinkedIn](https://www.linkedin.com/in/your-profile) or reach out if you're interested in collaboration, finance-tech ideas, or just to say hi!
+Feel free to check out my [LinkedIn]((https://www.linkedin.com/in/roshanmishra2111/) or reach out if you're interested in collaboration, finance-tech ideas, or just to say hi!
 
 ---
 
